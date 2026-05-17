@@ -1,4 +1,4 @@
-# SIH-25220-Digital-Contact-Tracing-and-Screening-Tool-for-MDR-Pathogens-in-Hospitals
+
 <div align="center">
 
 # 🦠 SIH-25220 · Digital Contact Tracing & Screening Tool for MDR Pathogens in Hospitals
